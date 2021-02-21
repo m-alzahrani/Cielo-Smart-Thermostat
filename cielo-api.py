@@ -21,7 +21,7 @@ from websocket import create_connection
 
 
 
-#GET IP ADDRESS
+#GET IP ADDRESS 123
 ip_address = requests.get('https://api.ipify.org').text
 
 User_name = #YOUR CIELO SMART USERNAME
